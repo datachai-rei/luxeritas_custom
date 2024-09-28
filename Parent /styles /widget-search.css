@@ -38,7 +38,7 @@
 	padding: 8px;
 	font-size: 1.2rem;
 	background: none;
-  cursor: pointer;
+/* cursor: pointer; */
 }
 
 .search-field:placeholder-shown {
